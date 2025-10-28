@@ -33,7 +33,7 @@ It allows users to **Add, Edit, Delete, Search, and View Students** with a clean
    \`\`\`
 
 ## 📸 Screenshots
-![App Screenshot](https://github.com/sameeksha123935/student-management/blob/main/screenshot.png)
+![App Screenshot](https://github.com/sameeksha123935/student-management/blob/main/Screenshot(1).png)
 
 ## 📜 License
 This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
